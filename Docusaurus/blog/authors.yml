@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+Ivan:
+  name: Ivan Jehuda Angi
+  title: Computer Science Student
+  url: https://github.com/IvanJehuda
+  image_url: https://github.com/IvanJehuda.png
+  page: true
+  socials:
+    github: IvanJehuda
+
+Krisna:
+  name: Krisna Putra Purnomo 
+  title: Ivan's friend
+  url: https://github.com/KrisnaPutraP
+  image_url: https://github.com/KrisnaPutraP.png
+  page: true
+  socials:
+    github: KrisnaPutraP
